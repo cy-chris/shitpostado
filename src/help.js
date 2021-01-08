@@ -2,7 +2,7 @@ const help = (prefix) => {
 	return `
 
 ╔════════════════════
-║        🌹𝐃𝐀𝐑𝐊 𝐁𝐎𝐓🌹
+║        💎𝑴𝑰𝑳𝑬𝑵𝑨 𝑩𝑶𝑻💎
 ╠════════════════════
 
 
@@ -10,7 +10,7 @@ const help = (prefix) => {
 ➸ Status: *「 Online 」*
 
        • ──── ✾ ──── •
-       *FIGURINHAS*【✔】
+       💎   *𝑭𝑰𝑮𝑼𝑹𝑰𝑵𝑯𝑨𝑺* 💎
        • ──── ✾ ──── •
       
 ➸ Comando : *${prefix}sticker* ou *${prefix}stiker*
@@ -27,7 +27,7 @@ const help = (prefix) => {
 ➸ uso : *${prefix}tsticker seu texto aqui*\n
 
        • ─── ✾ ─── •
-       *MEMES*【✔】
+        💎  *𝑴𝑬𝑴𝑬𝑺*  💎
        • ─── ✾ ─── •
       
 ➸ Comando : *${prefix}meme*
@@ -38,7 +38,7 @@ const help = (prefix) => {
 ➸ uso : basta enviar o comando
 
        • ──── ✾ ──── •
-       *OUTROS...*【✔】
+       💎  *𝑶𝑼𝑻𝑹𝑶𝑺 𝑬 𝑷𝑨* 💎
        • ──── ✾ ──── •
       
 ➸ Comando : *${prefix}gtts*
@@ -68,7 +68,7 @@ const help = (prefix) => {
 ➸ Nota : Usado somente pelo proprietário do bot\n
 
        • ─── ✾ ─── •
-       *GRUPO*【✔】
+       💎  *𝑮𝑹𝑼𝑷𝑶𝑺*   💎
        • ─── ✾ ─── •
       
 ➸ Comando : *${prefix}linkgroup*
@@ -101,16 +101,16 @@ const help = (prefix) => {
 ➸ Nota : Você precisa ser admin e o bot também
 
        • ────── ✾ ────── •
-       *MENU DO DARK*【✔】
+       💎*𝑵𝑶𝑽𝑶 𝑴𝑬𝑵𝑼 𝑫𝑨 𝑴𝑰𝑳𝑬𝑵𝑨*💎
        • ────── ✾ ────── •              
 
 ➸ *${prefix}help1* ♔
     
 
 ╔════════════════════
-  FEITO POR *DARK*
-  DUVIDAS? 👇
-  WA.me/5517991134416
+  𝑭𝑬𝑰𝑻𝑶 𝑷𝑶𝑹 💎𝑪𝒀𝑪𝑯𝑹𝑰𝑺💎 𝑶 𝑩𝑶𝑳𝑨𝑫𝑶
+  𝑪𝑯𝑨𝑴𝑨 𝑷𝑽
+  WA.me/5581996207906
 ╚════════════════════`
 }
 
